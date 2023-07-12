@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\UserName\bin\Debug\UserName.exe.config
+D:\Raven\Practice Exercise\C#\UserName\bin\Debug\UserName.exe
+D:\Raven\Practice Exercise\C#\UserName\bin\Debug\UserName.pdb
+D:\Raven\Practice Exercise\C#\UserName\obj\Debug\UserName.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\UserName\obj\Debug\UserName.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\UserName\obj\Debug\UserName.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\UserName\obj\Debug\UserName.exe
+D:\Raven\Practice Exercise\C#\UserName\obj\Debug\UserName.pdb
